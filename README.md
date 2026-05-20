@@ -1,4 +1,6 @@
-# Atividade3_cg
+# Tensorflow + Keras
+
+### Prof° Murillo Bouzon - CC6112 – Computação Gráfica
 
 ### Fernando Domingues RA:22.122.034-6
 
